@@ -19,6 +19,7 @@ These cover the general topic of machine learning and are beginner friendly.
 - [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/)
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+- [Outlier Analysis](http://link.springer.com/book/10.1007%2F978-1-4614-6396-2)
 
 ## Courses (MOOC)
 This is a short list of current Online courses with machine Learning and Data Science bias.
@@ -31,6 +32,7 @@ You can use the Audit mode to participate for free at an edX Course, unfortunate
 # Topics of the meetups
 - [Neural Networks](NeuralNetworks.md)
 - [Gaussian Processes](GaussianProcesses.md)
+- [Anomaly Detection]()
 
 ## Some related meetups
 
